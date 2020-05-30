@@ -1,0 +1,14 @@
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\bin\Debug\Instalador Tradução Bannerlord.exe.config
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\bin\Debug\Instalador Tradução Bannerlord.exe
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\bin\Debug\Instalador Tradução Bannerlord.pdb
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\obj\Debug\Instalador_Tradução_Bannerlord.Forms.FormApresentacao.resources
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\obj\Debug\Instalador_Tradução_Bannerlord.Properties.Resources.resources
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\obj\Debug\Instalador Tradução Bannerlord.csproj.GenerateResource.cache
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\obj\Debug\Instalador Tradução Bannerlord.csproj.CoreCompileInputs.cache
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\obj\Debug\Instalador Tradução Bannerlord.exe
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\obj\Debug\Instalador Tradução Bannerlord.pdb
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\obj\Debug\Instalador_Tradução_Bannerlord.Forms.FormDiretorio.resources
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\obj\Debug\Instalador_Tradução_Bannerlord.Forms.FormJanela.resources
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\obj\Debug\Instalador_Tradução_Bannerlord.Forms.FormInstalacao.resources
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\obj\Debug\Instalador Tradução Bannerlord.csprojAssemblyReference.cache
+C:\Users\joaof\source\repos\Instalador Tradução Bannerlord\Instalador Tradução Bannerlord\obj\Debug\Instalador_Tradução_Bannerlord.Forms.FormInstalacaoFinalizada.resources
