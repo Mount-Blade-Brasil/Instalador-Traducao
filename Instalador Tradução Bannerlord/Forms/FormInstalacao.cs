@@ -28,8 +28,9 @@ namespace Instalador_Tradução_Bannerlord.Forms
 
                 this.DialogResult = DialogResult.OK;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                LogFile.AddLog("Erro na instalação", ex);
                 this.DialogResult = DialogResult.Abort;
             }
             this.Close();
