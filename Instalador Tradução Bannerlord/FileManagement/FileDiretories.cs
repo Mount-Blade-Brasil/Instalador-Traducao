@@ -13,7 +13,7 @@ namespace Instalador_Tradução_Bannerlord.FileManagement
                 "Modules\\SandBoxCore\\ModuleData\\Languages\\PTBR",
                 "Modules\\StoryMode\\ModuleData\\Languages\\PTBR",
                 "GUI\\GauntletUI\\Fonts",
-                "GUI\\Launcher\\Fonts"
+                "GUI\\Launcher\\GUI\\Fonts"
             };
         }
     }

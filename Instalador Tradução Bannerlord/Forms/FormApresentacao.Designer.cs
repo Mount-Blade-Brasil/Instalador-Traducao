@@ -50,7 +50,7 @@
             // labelTraducao
             // 
             this.labelTraducao.BackColor = System.Drawing.Color.Transparent;
-            this.labelTraducao.Font = new System.Drawing.Font("Trajan Pro", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTraducao.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTraducao.ForeColor = System.Drawing.Color.White;
             this.labelTraducao.Location = new System.Drawing.Point(562, 61);
             this.labelTraducao.Name = "labelTraducao";
@@ -104,7 +104,7 @@
             this.labelCreditos.ForeColor = System.Drawing.Color.White;
             this.labelCreditos.Location = new System.Drawing.Point(12, 152);
             this.labelCreditos.Name = "labelCreditos";
-            this.labelCreditos.Size = new System.Drawing.Size(179, 263);
+            this.labelCreditos.Size = new System.Drawing.Size(179, 282);
             this.labelCreditos.TabIndex = 8;
             this.labelCreditos.Text = resources.GetString("labelCreditos.Text");
             // 

@@ -48,7 +48,7 @@
             // labelTraducao
             // 
             this.labelTraducao.BackColor = System.Drawing.Color.Transparent;
-            this.labelTraducao.Font = new System.Drawing.Font("Trajan Pro", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTraducao.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTraducao.ForeColor = System.Drawing.Color.White;
             this.labelTraducao.Location = new System.Drawing.Point(562, 61);
             this.labelTraducao.Name = "labelTraducao";
